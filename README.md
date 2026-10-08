@@ -7,12 +7,12 @@ My fully customized business card printed as a real circuit board. The contact i
 
 | Ref | Qty | Part | Price |
 |---|---|---|---|
-| U1 | 1 | ST25TN01K-AFH5 (NFC Forum Type 2 tag) |
+| U1 | 1 | ST25TN01K-AFH5 (NFC Forum Type 2 tag) | $0.5 each (included in PCBA) |
 | PCB | 1 | - | $8.60 (JLCPCB) + $14.77 PCBA mounting |
 
-Shipment: $9
-Taxes/Fees: 14$
-
+- Shipment: $9
+- Taxes/Fees: 14$
+- Total: 45$
 ## Contact data displayed
 
 - Email: asier.pernias@gmail.com
