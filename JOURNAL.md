@@ -30,4 +30,7 @@ After what happened a few hours earlier, I felt frustrated with myself, so I dec
 ### October 4 - 40 min
 Once the card itself was finished, it was time to set up the GitHub repository. Following the Expedition requirements, I added the production and original files to the repository. I also wrote the README.
 
+### October 8 - 45 min
+So after my project was required some changes, I had to get all the quota data from JCLPCB. I also had some issues on the way with the bom/csv files because they were broken in the last version due to some typos on them. Later I tried reducing the costs as much as possibke but couldnt find a way to get it below the $30 I was aiming for. I also edited the BOM in the description to have displayed all the quota data, added some more screenshots to the README and added a BOM.csv file directly from KiCad.
+
 **Note: this all has been pushed on the same commit as I had the journals in a note on my mobile phone and just copy pasted it here.**
